@@ -1,3 +1,3 @@
 # todo_list
 
-A new Flutter project.
+This is my first mobile app that I've developed using flutter. 
